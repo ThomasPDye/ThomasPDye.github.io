@@ -1,18 +1,19 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# Hobbies
+I am an Electronic Engineer with hobbies and interests including:
+- Music
+- Tennis
+- Cycling
+- Coding
+- Drawing
+- Designing and Making things
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+# Study
+I studied at the University of Exeter, graduating in 2017 with a 2.1 MEng in Electronic Engineering.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I am currently studying as a Graduate Student in Electrical Engineering at the University of Cambridge.
