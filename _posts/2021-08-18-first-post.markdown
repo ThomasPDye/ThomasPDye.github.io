@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Should I make a Github Pages site?"
-date:   2021-08-18 11:20:00 +0100
+date:   2021-08-18 12:20:00 +0100
 categories: ThomasPDye Websites
 ---
 
@@ -19,3 +19,7 @@ I think, to make it clear in my own mind whether I should or not, I will list th
 # Cons
 
 - It is entirely public allowing unrestricted access to any ideas and projects I post.
+
+# Conclusion
+
+I like how this looks, now that I have begun, so I will continue to create this site.
